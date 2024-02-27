@@ -1,4 +1,5 @@
-### Hi there 👋
+### Alyssa Juarez
+## Data Science Major at The University of Texas - Arlington 
 
 <!--
 **AlyssaJuarez221/AlyssaJuarez221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
