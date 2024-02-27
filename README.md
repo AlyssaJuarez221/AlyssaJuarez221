@@ -8,4 +8,4 @@ I am a data science major at The University of Texas at Arlington. This repo inc
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fsas-logo%2F170761&psig=AOvVaw2hRf0IpuewsqIa6JIl-TSA&ust=1709085907162000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC26KS3yoQDFQAAAAAdAAAAABAE" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fsas-logo%2F170761&psig=AOvVaw2hRf0IpuewsqIa6JIl-TSA&ust=1709085907162000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC26KS3yoQDFQAAAAAdAAAAABAE" />
