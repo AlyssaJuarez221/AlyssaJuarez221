@@ -14,3 +14,7 @@ I'm Alyssa Juarez, a senior at the University of Texas at Arlington majoring in 
 <br clear="left"/>
          
 ## 💻 Projects
+- 📊 **Sales Trends Analysis:** Analyzed retail sales data to uncover patterns and trends.
+- 🔍 **Customer Segmentation with Clustering:** Grouped customers based on purchasing habits.
+- 🐦 **Sentiment Analysis of Tweets:** Used natural language processing to analyze user sentiment.
+- 🌍 **COVID-19 Impact Visualization:** Visualized global COVID-19 cases and trends using Python.
