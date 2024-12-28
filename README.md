@@ -1,7 +1,7 @@
 # Hi there! :wave:
 
 ## :rocket: About Me
-I'm Alyssa Juarez, a senior at the University of Texas at Arlington majoring in data science. As a passionate explorer of the world of data, I thrive on deciphering patterns, uncovering insights, and transforming information into actionable solutions. Throughout my academic journey, I've honed my analytical skills and deepened my understanding of cutting-edge technologies in data analysis and machine learning. Beyond the realm of academia, I'm fascinated by the limitless possibilities that data science offers in fields ranging from business and healthcare to environmental conservation. With a curious mind and a relentless drive for excellence, I am eager to embark on a career where I can leverage my expertise to tackle real-world challenges and make a meaningful impact.
+-Hello 👋 My name is Alyssa Juarez, and I am a December 2024 graduate with a degree in Data Science with a concentration in Mathematics. I have a strong academic foundation in data analysis, statistical methods, and problem-solving. My focus is on leveraging my skills to tackle challenging analytical problems and deliver meaningful insights.
 
 ## :toolbox: Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -15,4 +15,4 @@ I'm Alyssa Juarez, a senior at the University of Texas at Arlington majoring in 
          
 ## 💻 Projects
 - 📊 **Data Analytics**
--           proj
+
