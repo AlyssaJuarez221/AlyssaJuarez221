@@ -1,12 +1,32 @@
-# Hi there! :wave:
+# 🌱 About Me
+## Hi, I'm Alyssa Juarez! 👋
 
-## :rocket: About Me
-Hi, I'm **Alyssa Juarez**! I'm a **December 2024 graduate** with a **Bachelor of Science** in **Data Science** concentrating in **Mathematics** from the **University of Texas at Arlington**. My academic background has provided me with a strong foundation in **statistics** and **data modeling**. Though I have studied these subjects extensively, I believe there is always room for improvement and further learning.
+I graduated in **December 2024** with a **Bachelor of Science** in **Data Science**, concentrating in **Mathematics**, from the **University of Texas at Arlington**. My academic journey has equipped me with a strong foundation in **statistics**, **data modeling**, and the ability to uncover meaningful insights from complex datasets. I am passionate about transforming data into actionable strategies that drive growth and innovation.
 
-As a highly organized and detail-oriented individual, my main driving factor is to push myself to be better. As Ernest Hemingway once said, "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." I strive to embody this philosophy every day by embracing growth, remaining open to new opportunities, and continuously seeking ways to improve.
+I am currently expanding my knowledge through **Coursera**, where I am exploring advanced techniques in **data visualization**, **customer behavior analysis**, and the latest industry tools. This commitment to continuous learning helps me stay at the forefront of trends and equips me with the skills to deliver impactful insights.
 
+As a detail-oriented and goal-driven individual, I thrive in collaborative environments that value creativity and problem-solving.
 
-## :toolbox: Languages and Tools
+> **_"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self."_**  
+> — Ernest Hemingway
+
+This philosophy inspires me to embrace growth opportunities, continually improve, and seek innovative ways to make a difference through data-driven decision-making.
+
+---
+
+# 📚 In Progress
+
+I am currently taking the **Microsoft Power BI Data Analyst** course to prepare for the **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** certification. This course is enhancing my skills in **data visualization**, **report building**, and **business intelligence** to deliver impactful insights and actionable solutions.
+
+---
+
+## 🔜 Next on the Agenda
+
+I plan to pursue the **Microsoft Generative AI for Data Analysis Professional Certificate**. This comprehensive program is designed to unlock the transformative power of **AI in data analysis**. It will empower me to leverage AI across the entire data lifecycle, **streamlining processes** and **uncovering deeper insights** crucial for career success. This certification aligns with my goal of staying at the cutting edge of data science and analytics.
+
+---
+
+# :toolbox: Languages and Tools
 <div style="display: flex; align-items: center;">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="Azure SQL Database" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
