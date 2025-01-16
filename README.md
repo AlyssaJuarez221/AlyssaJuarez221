@@ -32,7 +32,6 @@ I plan to pursue the **Microsoft Generative AI for Data Analysis Professional Ce
     * This project predicts employee churn using five machine learning models: **K-Nearest Neighbors (KNN)**, **Random Forest**, **Naive Bayes**, **Logistic Regression**, and a simple **MLP Neural Network**. By analyzing employee data such as satisfaction level, work hours, promotion history, and salary, the models classify whether an employee is likely to leave the company. After preprocessing and cleaning the dataset, we evaluated model performance using metrics like accuracy, precision, recall, and F1 score, achieving a **99% test accuracy** with the best-performing model.
     * This project was a collaborative effort by Alyssa Juarez and Madison Nguyen and, Zehra Erden. Contributions included data preprocessing, model implementation, performance evaluation, and documentation.
 ---
--->
 
 ## :toolbox: Languages and Tools
 <div style="display: flex; align-items: center; gap: 10px;">
