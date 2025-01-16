@@ -1,5 +1,5 @@
 # 🌱 About Me
-## Hi, I'm Alyssa Juarez! 👋
+### Hi, I'm Alyssa Juarez! 👋
 
 I graduated in **December 2024** with a **Bachelor of Science** in **Data Science**, concentrating in **Mathematics**, from the **University of Texas at Arlington**. My academic journey has equipped me with a strong foundation in **statistics**, **data modeling**, and the ability to uncover meaningful insights from complex datasets. I am passionate about transforming data into actionable strategies that drive growth and innovation.
 
@@ -14,32 +14,31 @@ This philosophy inspires me to embrace growth opportunities, continually improve
 
 ---
 
-# 📚 In Progress
+## 📚 In Progress
 
 I am currently taking the **Microsoft Power BI Data Analyst** course to prepare for the **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** certification. This course is enhancing my skills in **data visualization**, **report building**, and **business intelligence** to deliver impactful insights and actionable solutions.
 
 ---
 
-## 🔜 Next on the Agenda
+## 🗓️ Next on the Agenda
 
 I plan to pursue the **Microsoft Generative AI for Data Analysis Professional Certificate**. This comprehensive program is designed to unlock the transformative power of **AI in data analysis**. It will empower me to leverage AI across the entire data lifecycle, **streamlining processes** and **uncovering deeper insights** crucial for career success. This certification aligns with my goal of staying at the cutting edge of data science and analytics.
 
 ---
 
-# :toolbox: Languages and Tools
-<div style="display: flex; align-items: center;">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="Azure SQL Database" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img alt="SAS" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" />
-<img alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img alt="Custom Icon" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/117edbfc-009f-4358-a107-22b84b737528" />
-</div>
-
-
-
-
+## :toolbox: Languages and Tools
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="RStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+  <img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img alt="SAS" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" />
+  <img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img alt="Azure SQL Database" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PowerBI" width="40px" src="https://github.com/user-attachments/assets/117edbfc-009f-4358-a107-22b84b737528" />
+  <img alt="Excel" width="40px" src="https://github.com/user-attachments/assets/cc5e4d9f-b412-4b4d-8a93-b5cb2890ef8c" />
+</div> 
 
 <!-- ## Check Out My New Repository: AlyssaDataHub!
 
