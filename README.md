@@ -5,15 +5,21 @@ Hi, I'm **Alyssa Juarez**! I'm a **December 2024 graduate** with a **Bachelor of
 
 As a highly organized and detail-oriented individual, my main driving factor is to push myself to be better. As Ernest Hemingway once said, "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." I strive to embody this philosophy every day by embracing growth, remaining open to new opportunities, and continuously seeking ways to improve.
 
+
 ## :toolbox: Languages and Tools
+<div style="display: flex; align-items: center;">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<br clear="left"/>
+<img alt="Azure SQL Database" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img alt="SAS" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" />
+<img alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img alt="Custom Icon" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/117edbfc-009f-4358-a107-22b84b737528" />
+</div>
+
+
+
+
 
 <!-- ## Check Out My New Repository: AlyssaDataHub!
 
