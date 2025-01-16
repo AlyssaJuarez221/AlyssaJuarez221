@@ -25,6 +25,11 @@ I am currently taking the **Microsoft Power BI Data Analyst** course to prepare 
 I plan to pursue the **Microsoft Generative AI for Data Analysis Professional Certificate**. This comprehensive program is designed to unlock the transformative power of **AI in data analysis**. It will empower me to leverage AI across the entire data lifecycle, **streamlining processes** and **uncovering deeper insights** crucial for career success. This certification aligns with my goal of staying at the cutting edge of data science and analytics.
 
 ---
+<!-- ## 📌 Featured Projects
+- [Customer Purchase Insights Dashboard](https://github.com/alyssajuarez/customer-insights)
+  *Power BI dashboard analyzing trends and churn.*
+---
+-->
 
 ## :toolbox: Languages and Tools
 <div style="display: flex; align-items: center; gap: 10px;">
