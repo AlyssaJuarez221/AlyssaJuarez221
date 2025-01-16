@@ -27,7 +27,9 @@ I plan to pursue the **Microsoft Generative AI for Data Analysis Professional Ce
 ---
 ## 📌 Featured Projects
 * [**Customer Segmentation**](https://github.com/AlyssaJuarez221/Customer-Segmentation/tree/main)
-    * Customer segmentation project leveraging K-Means, K-Modes, and Agglomerative Clustering to group customers by shopping behaviors, income, and demographics, optimizing store offerings and marketing strategies for enhanced sales and satisfaction.
+    * Customer segmentation project leveraging **K-Means**, **K-Modes**, and **Agglomerative Clustering** to group customers by shopping behaviors, income, and demographics, optimizing store offerings and marketing strategies for enhanced sales and satisfaction.
+* [**Employee Churn**](https://github.com/madixson/EmployeeChurnHR_Project)
+    * This project predicts employee churn using five machine learning models: **K-Nearest Neighbors (KNN)**, **Random Forest**, **Naive Bayes**, **Logistic Regression**, and a simple **MLP Neural Network**. By analyzing employee data such as satisfaction level, work hours, promotion history, and salary, the models classify whether an employee is likely to leave the company. After preprocessing and cleaning the dataset, we evaluated model performance using metrics like accuracy, precision, recall, and F1 score, achieving a **99% test accuracy** with the best-performing model.
 ---
 -->
 
